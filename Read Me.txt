@@ -1,0 +1,11 @@
+Name : Ahmed Mohamed Abdelmotey
+Email : ahmed.abdelmotey92@gmail.com
+Department : Civil Engineering Informatics (CEI)
+
+NotedBugs:
+1- Menu strip is visible only after you hover on it.
+2- some times newly added primitive is inserted in wrong place.
+
+Further Note: 
+1- Obj Parser is created by me with limited testing. so it may contain some bugs.
+2- selection is only valid by double clicking on the List View.
